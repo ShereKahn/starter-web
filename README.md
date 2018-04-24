@@ -16,6 +16,7 @@ or any local file system
 
 ## How to contribute
 
+Please fork this repository and then issue pull request for review
 
 ### Copyright
 2018 ajourez

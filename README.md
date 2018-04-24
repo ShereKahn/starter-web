@@ -16,3 +16,6 @@ or any local file system
 
 ## How to contribute
 
+
+### Copyright
+2018 ajourez

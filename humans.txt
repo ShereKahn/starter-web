@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+    Alain Jourez     ajourez@gmail.com	@ShereKahnAj
 
 # THANKS
 

@@ -5,6 +5,8 @@ how to use Git and Github together. Adding a line
 for rebasing example, then more
 changes for myfeature too.
 
+Emergency fix
+
 ## Introduction
 This is an example to show different parts of the Git repository and 
 various commands using a web project

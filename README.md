@@ -21,4 +21,4 @@ or any local file system
 Please fork this repository and then issue pull request for review
 
 ### Copyright
-2018 ajourez
+2018 ajourez, All Rights reserved.
